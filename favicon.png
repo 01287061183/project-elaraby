@@ -1,0 +1,52 @@
+  <section id="services">
+        <div class="container">
+            <div class="title">
+                <h2>We Ofer Different Services To Improve Your Health</h2>
+                <img src="./image/section-img.png">
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas quaerat aperiam totam magnam alias.</p>
+            </div>
+            <div class="row">
+                <div class="item">
+                    <i class="fa-solid fa-table-list"></i>
+                    <h3>General Treatment</h3>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas quaerat aperiam totam magnam alias.</p>
+                </div>
+                <div class="row">
+                    <div class="item">
+                        <i class="fa-solid fa-tooth"></i>
+                        <h3>Teeth Whitening</h3>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas quaerat aperiam totam magnam alias.</p>
+                    </div>
+    
+                    <div class="row">
+                        <div class="item">
+                            <i class="fa-solid fa-heart-pulse"></i>
+                            <h3>Heart Sugery</h3>
+                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas quaerat aperiam totam magnam alias.</p>
+                        </div>
+        
+                        <div class="row">
+                            <div class="item">
+                                <i class="fa-solid fa-ear-listen"></i>
+                                <h3>Ear Treatment</h3>
+                                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas quaerat aperiam totam magnam alias.</p>
+                            </div>
+            
+                            <div class="row">
+                                <div class="item">
+                                    <i class="fa-solid fa-eye"></i>
+                                    <h3>Vision Problems</h3>
+                                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas quaerat aperiam totam magnam alias.</p>
+                                </div>
+                
+                                <div class="row">
+                                    <div class="item">
+                                        <i class="fa-solid fa-droplet"></i>
+                                        <h3>Blood Transfusion</h3>
+                                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas quaerat aperiam totam magnam alias.</p>
+                                    </div>    
+                        </div>
+                            </div>
+                        </div>
+                    </div>
+                    </section>                  
